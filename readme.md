@@ -10,7 +10,7 @@
 | | Azure Resource Manager Model | 11:00 - 11:15 |
 | | [Azure Resource Manager Templates](https://github.com/seesharprun/arm-examples/blob/master/readme.md) | 11:15 - 11:30 |
 | | Azure Cross-Platform Command Line Interface | 11:30 - 11:45 |
-| | Exercise: [Creating a Virtual Network using the Cross-Platform Command Line Interface](https://github.com/AzureBytes/cli_arm_virtualnetworks/blob/master/README.md) | 11:45-12:00 |
+| | Exercise: [Creating a Virtual Network using the Cross-Platform Command Line Interface](https://github.com/AzureBytes/cli_arm_virtualnetworks/blob/master/README.md) | 11:45 - 12:00 |
 | **Lunch** | | 12:00 - 1:00 |
 | **Azure Infrastructure-as-a-Service** | | 1:00 - 2:00 |
 | | Azure Virtual Machines &#124; [Deck](https://github.com/Azure-Readiness/DevCamp/blob/master/Presentation/IaaS/IaaS.pptx) | 1:00 - 1:30 |
