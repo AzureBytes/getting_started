@@ -21,3 +21,16 @@
 | | Exercise: [Create an Azure Mobile Apps Instance](https://github.com/azure-bootcamps/app_service_and_xamarin/blob/master/08_appservice/readme.md) | 2:30 - 2:45 |
 | | Exploring More Azure Services | 2:45 - 3:00 |
 | **Exploring Azure Learning Resources** | | 3:00 - 3:30 |
+
+## Resources
+
+- https://www.microsoft.com/en-us/learning/azure-certification.aspx
+- https://openedx.microsoft.com/
+- https://partner.microsoft.com/en-US/azureskills?sc_camp=25DA99EFE3044724A19816D5DEB8CAE9
+- https://msdn.microsoft.com/en-us/library/dn568099.aspx
+- https://www.edx.org/school/microsoft
+- https://academy.microsoft.com
+- https://mva.microsoft.com/
+- https://tryappservice.azure.com/
+- https://portal.azure.com
+- https://github.com/seesharprun/arm-examples
